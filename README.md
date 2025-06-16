@@ -3,11 +3,11 @@
 ## ℹ️Overview
 
 This is the most powerful home-lab focused on setting up Splunk SIEM and real-world use cases. If you’re interested to become SOC Analyst(Tier 1/2) , this lab will help you with SOC tools, rules, queries, apps and integration.
-![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)](https://github.com/0xrajneesh/Home-Lab/assets/40385860/592b6605-5f36-42f5-b0d0-8dbb6e4a843a)
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)](https://drive.google.com/file/d/1QyyufJ5xH0RSZp-SDUX1i-P6PS7iq913/view)
 
 This home-lab covers:
-- [Requirement](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#requirements)
-- [Lab Diagram](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
+- [Requirement](https://github.com/mchyasn/Splunk-SIEM-Lab/tree/main?tab=readme-ov-file#requirements)
+- [Lab Diagram](https://github.com/mchyasn/Splunk-SIEM-Lab/tree/main?tab=readme-ov-file#%EF%B8%8Flab-diagram)
 - [Setting up Splunk SIEM on Ubuntu Server](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#-setting-up-splunk-siem-on-ubuntu-server)
 - [Excercises- Investigating Web-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-web-based-attacks)
 - [Excercises- Investigating Network-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-network-based-attacks)
