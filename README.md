@@ -11,7 +11,6 @@ This home-lab covers:
 - [Setting up Splunk SIEM on Ubuntu Server](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#-setting-up-splunk-siem-on-ubuntu-server)
 - [Excercises- Investigating Web-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-web-based-attacks)
 - [Excercises- Investigating Network-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-network-based-attacks)
-- [Live Training](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#need-training)
 
 ## 🧮Requirements
 
