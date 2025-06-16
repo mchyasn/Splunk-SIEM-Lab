@@ -3,7 +3,8 @@
 ## ℹ️Overview
 
 This is the most powerful home-lab focused on setting up Splunk SIEM and real-world use cases. If you’re interested to become SOC Analyst(Tier 1/2) , this lab will help you with SOC tools, rules, queries, apps and integration.
-![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)] ![Demo](https://imgur.com/6bsAoKm)
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)] ![Demo](https://i.imgur.com/6bsAoKm.png)
+
 
 This home-lab covers:
 - [Requirement](https://github.com/mchyasn/Splunk-SIEM-Lab/tree/main?tab=readme-ov-file#requirements)
