@@ -27,7 +27,8 @@ This home-lab covers:
 
 ## 🖼️Lab Diagram
 
-![Home-Lab]([https://github.com/0xrajneesh/Home-Lab/assets/40385860/2a1f4e02-3ae9-4d47-8e09-9370548035ed](https://github.com/mchyasn/Splunk-SIEM-Lab/tree/main?tab=readme-ov-file#excercises--investigating-network-based-attacks))
+![Home-Lab]![Another Demo](https://i.imgur.com/nnhAIPO.png)
+
 
 
 ## </> Setting up Splunk SIEM on Ubuntu Server
